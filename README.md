@@ -1,2 +1,2 @@
 # congenial-guacamole
-Just me getting used to GitHub!
+Just me playing around and getting used to GitHub!
